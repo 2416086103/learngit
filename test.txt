@@ -9,6 +9,8 @@ Git is a distributed version control system.
 Git is a free software.
 
 Creating a new branch is quick.
-Switched to a new branch 'dev'
 
 1111111111111111
+
+Switched to a new branch 'dev'. bug
+
