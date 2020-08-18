@@ -16,3 +16,7 @@ Switched to a new branch 'dev'. bug
 
 dev2
 
+<<<<<<< HEAD
+=======
+Creating a new branch is dev.
+>>>>>>> 7f5ad29ded57ae251d635b633c6a13e06ce1ae6e
