@@ -10,8 +10,9 @@ Git is a free software.
 
 Creating a new branch is quick.
 
-1111111111111111dev
-
 Switched to a new branch 'dev'. bug
 
-dev2
+1111111111111111issue debug
+
+master
+
